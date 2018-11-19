@@ -1,4 +1,4 @@
-package l.backenddemo.Utils;
+package l.backenddemo.utils;
 
 public class Greeting {
     private final String Content;

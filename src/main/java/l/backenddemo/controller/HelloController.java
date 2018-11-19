@@ -1,6 +1,6 @@
-package l.backenddemo.Controller;
+package l.backenddemo.controller;
 
-import l.backenddemo.Utils.Greeting;
+import l.backenddemo.utils.Greeting;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
